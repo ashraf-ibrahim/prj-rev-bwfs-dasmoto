@@ -1,0 +1,36 @@
+html{
+  font-family: Helvetica;
+}
+
+
+h1 {
+  background-image: url("/Users/ashrafibrahim/Documents/Codeacademy/Projects/Dasmoto's Arts & Crafts/Resources/images/pattern.jpeg");
+  /* QUESTION: Can a shorter project path (Resources/images/pattern.jpeg) not be used for a background color declaration? This did not work for me so I used the full path instead.*/
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+#brushes {
+  background-color: mediumspringgreen;
+}
+
+#frames {
+  background-color: lightcoral;
+}
+
+#paint {
+  background-color:skyblue;
+}
+
+.price {
+  font-weight: bold;
+  color: blue;
+}
